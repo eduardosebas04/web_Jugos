@@ -1,0 +1,19 @@
+table{
+    border-collapse: collapse;
+    width: 40%;
+    margin: auto;
+}
+
+table, td, th{
+    border: 1px solid black;
+}
+thead{
+    background-color: black;
+    color: chartreuse;
+}
+tbody{
+    color: green;
+}
+tfoot{
+    color: maroon;
+}
